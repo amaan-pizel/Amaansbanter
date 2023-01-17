@@ -1,0 +1,51 @@
+@font-face {
+    font-family: batman;
+    src: url(batmfa__.ttf);
+  }
+
+. {
+    font-family: batman;
+    text-shadow: 2px 2px whitesmoke;
+    
+}
+
+
+
+body {
+    color: 	#960000;
+    text-align: center;
+
+   
+    margin: 200;
+}
+
+#hero {
+    background-color: black;
+    padding: 10px 0 40px 0;
+}
+
+#main-logo {
+    width: 100px;
+}
+
+.btn {
+    padding: 6px 12px;
+    background: rgb(255, 255, 255);
+    border: none;
+
+    color: #960000;
+    font-weight: 800;
+}
+
+.underline {
+    border-bottom: 4px solid white;
+}
+   
+
+.under {
+    margin: auto;
+    padding: 100px;
+    background-image: url("ba.gif");
+    background-size: cover;
+    color: white;
+}
